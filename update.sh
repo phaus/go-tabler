@@ -15,4 +15,4 @@ mv -f assets/tabler/js/vendors assets/js/
 
  go-bindata -o assets.go assets/...
 
-sed -i'.bak' -e 's/package main/package tabler/g' assets.go && rm assets.go.bak
+sed -i'.bak' -e 's/package main/package go-tabler/g' assets.go && rm assets.go.bak

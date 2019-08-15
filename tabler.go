@@ -1,1 +1,1 @@
-package tabler
+package go-tabler
