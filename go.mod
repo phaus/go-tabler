@@ -1,3 +1,3 @@
-module go-tabler
+module gotabler
 
 go 1.12

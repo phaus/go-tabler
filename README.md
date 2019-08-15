@@ -1,4 +1,4 @@
-# go-tabler
+# gotabler
 
 Tabler assets as bin-data package for Go Apps.
 
